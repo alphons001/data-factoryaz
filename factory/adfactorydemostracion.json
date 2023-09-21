@@ -1,0 +1,9 @@
+{
+	"name": "adfactorydemostracion",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "767a01a4-5781-4fb4-9305-27266bb7a059",
+		"tenantId": "d70e4cf2-2c32-4d0a-9bac-7878c0d63001"
+	}
+}
